@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SmartXMLAnalyzer:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/SmartXMLAnalyzer_jar</output-path>
+    <root id="archive" name="SmartXMLAnalyzer.jar">
+      <element id="module-output" name="SmartXMLAnalyzer" />
+      <element id="library" level="module" name="jsoup-1.11.3.jar" module-name="SmartXMLAnalyzer" />
+    </root>
+  </artifact>
+</component>
