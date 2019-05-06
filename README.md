@@ -1,6 +1,6 @@
 # SmartXMLAnalyzer
 
-Programm execution:
+Program execution:
 
 java -jar SmartXmlAnalyzer.jar <input_origin_file_path> <input_other_sample_file_path> <target_element_id>
 
